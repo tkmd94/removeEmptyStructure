@@ -55,7 +55,7 @@ namespace VMS.TPS
                     else
                     {
                         unremovedStructureIds.Add(structure.Id);
-                        log += structure.Id + " : Not removed(chage approval status!)" + "\n";
+                        log += structure.Id + " : Not removed(change approval status!)" + "\n";
                     }
                 }
             }
